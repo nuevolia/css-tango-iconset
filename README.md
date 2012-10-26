@@ -1,2 +1,2 @@
-glowing-ninja
-=============
+CSS Tango Iconset
+=================
