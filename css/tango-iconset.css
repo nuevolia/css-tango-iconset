@@ -1,4 +1,4 @@
-[class^="tango-"], [class*=" tango-"] { background: url(../img/tango-small.png) no-repeat top left; display: inline-block; height: 16px; line-height: 16px; margin-bottom: 1px; vertical-align: middle;width: 16px; }
+[class^="tango-"], [class*=" tango-"] { background: url(../img/tango-small.png) no-repeat top left; display: inline-block; height: 16px; line-height: 16px; margin-bottom: 2px; margin-top: 2px; vertical-align: text-bottom;width: 16px; }
 .tango-actions-address-book-new{ background-position: 0 0; width: 16px; height: 16px; } 
 .tango-actions-appointment-new{ background-position: -32px 0; width: 16px; height: 16px; } 
 .tango-actions-bookmark-new{ background-position: -64px 0; width: 16px; height: 16px; } 
