@@ -22,4 +22,5 @@ Then call an icon with this kind of code from the body section of your html docu
 Licence
 -------
 
+(c) Fabien Zarifian, 2012
 This code is licenced under the Creative Commons Attribution-ShareAlike 2.5 license.
