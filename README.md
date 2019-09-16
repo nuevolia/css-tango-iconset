@@ -22,5 +22,8 @@ Then call an icon with this kind of code from the body section of your html docu
 Licence
 -------
 
-(c) Fabien Zarifian, 2012
-This code is licenced under the Creative Commons Attribution-ShareAlike 2.5 license.
+Copyright (c) 2012, Fabien ZARIFIAN All rights reserved.
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 2.5 Generic License. 
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/2.5/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
